@@ -1,5 +1,6 @@
 # csci531crypto
 CSCI 531 - applied cryptography @ USC
+
 Research Paper Specs:
 Research and design a privacy-preserving digital medical data system with proper access control and authorization methods
 with varying levels of document access based on identities.
