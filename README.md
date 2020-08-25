@@ -1,7 +1,14 @@
 # csci531crypto
 CSCI 531 - applied cryptography @ USC
 
+
+Bitcoin Analysis Paper:
+
+This paper analyses the security implications of using SHA1 instead of SHA256 in bitcoin transactions.  
+
+
 Research Paper Specs:
+
 Research and design a privacy-preserving digital medical data system with proper access control and authorization methods
 with varying levels of document access based on identities.
 
